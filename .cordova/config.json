@@ -1,0 +1,9 @@
+{
+    "lib": {
+        "www": {
+            "id": "org.coenraets.employeedirectory",
+            "version": "1.1.0",
+            "uri": "https://github.com/tormod17/phonegap-workshop-master.git"
+        }
+    }
+}
