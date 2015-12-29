@@ -16,4 +16,6 @@
         <feature name="http://api.phonegap.com/1.0/notification" />
         <gap:plugin name="org.apache.cordova.contacts" />
         <gap:plugin name="org.apache.cordova.camera" />
+        <plugin name="org.apache.cordova.camera" source="pgb" spec="0.3.6" />
+        <plugin name="org.apache.cordova.contacts" source="pgb" spec="0.2.16" />
     </widget>
